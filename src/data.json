@@ -1,0 +1,67 @@
+{
+    "intro": {
+        "logo": "Ankit Soni",
+        "name": "Ankit Soni",
+        "position": "Full Stack Developer",
+        "aboutME": "./assets/aboutMe.jpg"
+    },
+    "about": {
+        "heading": "Hello, There! 👋🏻",
+        "description": "I am Ankit Soni, highly motivated and skilled WordPress Developer with over 3 years of experience in developing and managing WordPress websites. I have proficient in developing custom WordPress themes and plugins, as well as integrating third-party plugins and tools. I have also experienced in optimizing WordPress websites for search engines and improving their performance.",
+        "button": "Let's Talk With Me!"
+    },
+    "work": {
+        "heading": "Our Work",
+        "description": "Crafted with expertise and passion, my portfolio showcases a diverse range of creative projects.",
+        "portfolio": [
+            {
+                "id": 1,
+                "img": "https://ankitsoni.in/project/cygnet.jpg",
+                "text": "Cygnet Technology - Website Developement Agency",
+                "url": "https://cygnettechnology.com"
+            },
+            {
+                "id": 2,
+                "img": "https://ankitsoni.in/project/Kyfer.jpg",
+                "text": "Kyfer Company Portfolio",
+                "url": "https://kyfer.ltd/"
+            },
+            {
+                "id": 3,
+                "img": "https://ankitsoni.in/project/kk.jpg",
+                "text": "KK Tours & Travels - Explore the World with KK Tours & Travels",
+                "url": "https://kk-tours.com/"
+            },
+            {
+                "id": 4,
+                "img": "https://ankitsoni.in/project/Durgesh%20Soni.jpg",
+                "text": "Dugesh Soni -  Backend Developer | Portfolio Website ",
+                "url": "https://durgeshsoni.com/"
+            },
+            {
+                "id": 5,
+                "img": "https://ankitsoni.in/project/Almahira.jpg",
+                "text": "ALMAHIRA PROJECT MANAGEMENT SERVICES CO.",
+                "url": "https://almahira.me"
+            },
+            {
+                "id": 6,
+                "img": "https://ankitsoni.in/project/Aspire%20%26%20Glee.jpg",
+                "text": "Aspire and Glee - Let's Intend To Spread Smiles",
+                "url": "https://aspireandglee.com"
+            },
+            {
+                "id": 7,
+                "img": "https://ankitsoni.in/project/casa.jpg",
+                "text": "CASA Interior - Bringing Your Visions to Life with Casa Interior",
+                "url": "https://casainterior.casa"
+            },
+            {
+                "id": 8,
+                "img": "https://ankitsoni.in/project/Round%20Point%20Tech.jpg",
+                "text": "Round Point Tech",
+                "url": "https://roundpointtech.com/"
+            }
+        ]
+    }
+}
