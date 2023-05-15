@@ -5,7 +5,7 @@ import aboutMe from "../assets/about.png";
 const About = () => {
   const { heading, description, button } = data.about;
   return (
-    <div className="md:flex md:w-9/12 mx-auto justify-center sm:gap-10">
+    <div className="md:flex md:w-9/12 md:mt-20 mx-auto justify-center sm:gap-10">
       <div className="md:w-[400px]">
         <img
           className="h-96 mx-auto object-cover w-96 rounded-md drop-shadow-2xl"
@@ -13,7 +13,7 @@ const About = () => {
           alt="ankit soni"
         />
       </div>
-      <div className="md:w-2/4 md:space-y-6 mt-4 md:mt-0  space-y-3 text-white">
+      <div className="md:w-2/4 md:space-y-6 mt-10 md:mt-0  space-y-3 text-white">
         <h1 className="font-jack font-bold text-3xl tracking-tighter ">
           {heading}
         </h1>

@@ -1,8 +1,9 @@
-import React from "react";
+import React, { lazy } from "react";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
 import About from "./components/About";
-import Portfolio from "./components/Portfolio";
+const Portfolio = lazy(() => import("./components/Portfolio"));
+// import Portfolio from "./components/Portfolio";
 import Experties from "./components/Experties";
 import CalltoAction from "./components/CalltoAction";
 import Contact from "./components/Contact";

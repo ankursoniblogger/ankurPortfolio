@@ -3,7 +3,7 @@ import { Icon } from "@iconify/react";
 
 const CalltoAction = () => {
   return (
-    <div className="bg-lightGreen md:w-9/12 mx-auto text-black md:flex items-center md:justify-between p-6 md:px-20 mt-10 md:py-20 py-10 rounded-md ">
+    <div className="bg-lightGreen md:w-9/12 mx-auto text-black md:flex items-center md:justify-between p-6 md:px-20 mt-20 md:py-20 py-10 rounded-md ">
       <h1 className="font-jack font-bold text-3xl tracking-tight">
         Let's Get started with us. <br /> One click away.
       </h1>
