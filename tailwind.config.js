@@ -4,7 +4,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        "hero-pattern": "url('./src/assets/bg-line.png')",
+        "hero-pattern": "url('https://ankitsoni.in/project/bg-line.png')",
       },
     },
     colors: {
