@@ -16,3 +16,8 @@
 ::-webkit-scrollbar-thumb {
     background-color: #BFF101;
 }
+
+::selection {
+    color: #BFF101;
+    background: #505050;
+}

@@ -11,7 +11,7 @@ const CalltoAction = () => {
         <a href="https://wa.me/971521902215" target="_blank">
           Get Started
         </a>
-        <span className=" bg-lightGreen rounded-full p-3">
+        <span className=" bg-lightGreen  rounded-full p-3">
           <Icon className=" text-black" icon="ph:arrow-up-right" />
         </span>
       </button>

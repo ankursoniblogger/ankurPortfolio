@@ -2,7 +2,11 @@
 export default {
   content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        "hero-pattern": "url('./src/assets/bg-line.png')",
+      },
+    },
     colors: {
       darkGreen: "#1B2B1C",
       lightGreen: "#BFF101",

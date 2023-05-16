@@ -6,7 +6,8 @@ const Contact = () => {
       <h1 className="font-jack text-white md:text-7xl sm:text-5xl text-3xl font-bold tracking-tight">
         Keep in touch with me Say Hi!
       </h1>
-      <p className="text-white font-jack underline md:text-xl text-lg font-medium md:mt-16 mt-10 cursor-pointer">
+
+      <p className="text-white animate-bounce hover:text-lightGreen ease-linear duration-300  font-jack underline md:text-xl text-lg font-medium md:mt-16 mt-10 cursor-pointer">
         <a href="mailto:hello@ankitsoni.in"> hello@ankitsoni.in</a>
       </p>
     </div>

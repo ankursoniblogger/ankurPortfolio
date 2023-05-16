@@ -13,8 +13,8 @@ const About = () => {
           alt="ankit soni"
         />
       </div>
-      <div className="md:w-2/4 md:space-y-6 mt-10 md:mt-0  space-y-3 text-white">
-        <h1 className="font-jack font-bold text-3xl tracking-tighter ">
+      <div className=" md:w-2/4 md:space-y-6 mt-10 md:mt-0  space-y-3 text-white">
+        <h1 className="animate-pulse font-jack font-bold text-3xl tracking-tighter ">
           {heading}
         </h1>
         <p className="font-jack font-light text-sm tracking-tight text-justify  leading-5">
