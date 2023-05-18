@@ -10,7 +10,7 @@ import Footer from "./components/Footer";
 
 const App = () => {
   return (
-    <div className="bg-darkGreen bg-hero-pattern scroll-smooth font-Jack py-10 px-4 h-full">
+    <div className="bg-darkGreen bg-hero-pattern  scroll-smooth font-Jack py-10 px-4 h-full">
       <Header />
       <Hero />
       <About />
