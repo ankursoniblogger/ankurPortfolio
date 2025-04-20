@@ -1,13 +1,13 @@
 {
     "intro": {
-        "logo": "Ankit Soni",
-        "name": "Ankit Soni",
+        "logo": "Ankur Soni",
+        "name": "Ankur Soni",
         "position": "Full Stack Developer",
         "aboutME": "./assets/aboutMe.jpg"
     },
     "about": {
         "heading": "Hello, There! 👋🏻",
-        "description": "I am Ankit Soni, highly motivated and skilled WordPress Developer with over 3 years of experience in developing and managing WordPress websites. I have proficient in developing custom WordPress themes and plugins, as well as integrating third-party plugins and tools. I have also experienced in optimizing WordPress websites for search engines and improving their performance.",
+        "description": "Hi, I'm Ankur Soni — a passionate Full Stack Web Developer from India. I specialize in building responsive, user-friendly, and scalable web applications using technologies like React, Node.js, Express, and MongoDB. Currently, I'm pursuing a full-time web development course at Masai School, where I’ve gained hands-on experience in JavaScript, Data Structures & Algorithms, and real-world project building through collaborative hackathons. I love solving problems and continuously improving my skills. When I’m not coding, I enjoy exploring new tools, writing about my learning journey on LinkedIn, and helping others in the tech  community.",
         "button": "Let's Talk With Me!"
     },
     "work": {
@@ -15,28 +15,29 @@
         "description": "Crafted with expertise and passion, my portfolio showcases a diverse range of creative projects.",
         "portfolio": [
             {
+                
                 "id": 1,
-                "img": "https://ankitsoni.in/project/cygnet.jpg",
-                "text": "Cygnet Technology - Website Developement Agency",
-                "url": "https://cygnettechnology.com"
+                "img": "/spotify.png",
+                "text": "Spotify-web-player-clone",
+                "url": "https://spotify-web-player-clonee.netlify.app/"
             },
             {
                 "id": 2,
-                "img": "https://ankitsoni.in/project/Kyfer.jpg",
-                "text": "Kyfer Company Portfolio",
-                "url": "https://kyfer.ltd/"
+                "img": "/fannan2.png",
+                "text": "Fannan personal portfolio",
+                "url": "https://fannan-portfolio.netlify.app/"
             },
             {
                 "id": 3,
-                "img": "https://ankitsoni.in/project/kk.jpg",
-                "text": "KK Tours & Travels - Explore the World with KK Tours & Travels",
-                "url": "https://kk-tours.com/"
+                "img": "/Finedoctor.png",
+                "text": "Findoctor",
+                "url": "https://findoctorr.netlify.app/"
             },
             {
                 "id": 4,
-                "img": "https://ankitsoni.in/project/Durgesh%20Soni.jpg",
-                "text": "Dugesh Soni -  Backend Developer | Portfolio Website ",
-                "url": "https://durgeshsoni.com/"
+                "img": "/Messho.png",
+                "text": "Meesho Clone",
+                "url": "https://meesho-clone098.netlify.app/"
             },
             {
                 "id": 5,
@@ -65,3 +66,5 @@
         ]
     }
 }
+
+

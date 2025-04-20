@@ -8,7 +8,7 @@ const Contact = () => {
       </h1>
 
       <p className="text-white animate-bounce hover:text-lightGreen ease-linear duration-300  font-jack underline md:text-xl text-lg font-medium md:mt-16 mt-10 cursor-pointer">
-        <a href="mailto:hello@ankitsoni.in"> hello@ankitsoni.in</a>
+      <a href="mailto:ankursoniblogger@gmail.com">ankursoniblogger@gmail.com</a>
       </p>
     </div>
   );

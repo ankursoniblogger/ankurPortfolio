@@ -8,7 +8,7 @@ const CalltoAction = () => {
         Let's Get started with us. <br /> One click away.
       </h1>
       <button className="bg-darkGreen text-white gap-2 pl-6  justify-center font-jack font-medium md:mt-0 mt-6 md:w-auto w-full rounded-full p-1.5 flex items-center">
-        <a href="https://wa.me/971521902215" target="_blank">
+        <a href="https://wa.me/+917318326631 " target="_blank">
           Get Started
         </a>
         <span className=" bg-lightGreen  rounded-full p-3">

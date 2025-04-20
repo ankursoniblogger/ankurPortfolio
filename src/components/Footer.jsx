@@ -9,25 +9,26 @@ const Footer = () => {
         <span className="font-jack font-thin"> Made with Love ❤️</span>
       </p>
       <div className="flex gap-2 text-base text-lightGreen">
-        <a href="https://www.facebook.com/Ankitsoniblogger" target="_blank">
+        {/* <a href="https://www.facebook.com/Ankitsoniblogger" target="_blank">
           <Icon
             className="cursor-pointer hover:text-white"
             icon="ic:baseline-facebook"
           />
-        </a>
-        <a href="https://www.instagram.com/ankitsoniblogger/" target="_blank">
-          <Icon
-            className="cursor-pointer hover:text-white"
-            icon="ph:instagram-logo-fill"
-          />
-        </a>
-        <a href="https://github.com/ankitsoniblogger/" target="_blank">
+        </a> */}
+        
+        <a href="https://github.com/ankursoniblogger" target="_blank">
           <Icon className="cursor-pointer hover:text-white" icon="mdi:github" />
         </a>
-        <a href="https://www.linkedin.com/in/ankitsoniblogger" target="_blank">
+        <a href="https://www.linkedin.com/in/ankur-soni-blogger/" target="_blank">
           <Icon
             className="cursor-pointer hover:text-white"
             icon="mdi:linkedin"
+          />
+        </a>
+        <a href="https://www.instagram.com/ankur.soni20/" target="_blank">
+          <Icon
+            className="cursor-pointer hover:text-white"
+            icon="ph:instagram-logo-fill"
           />
         </a>
       </div>

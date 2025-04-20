@@ -10,11 +10,16 @@ const Experties = () => {
       <div className="w-full mx-auto flex item-center flex-wrap md:gap-12 gap-5 text-center justify-center mt-10 ">
         <ExpertDetails icon="ion:logo-react" name="React JS" />
         <ExpertDetails icon="devicon-plain:mongodb" name="Mongo DB" />
+        <ExpertDetails icon="mdi:alpha-e-circle" name="Express JS" />
         <ExpertDetails icon="akar-icons:node-fill" name="Node JS" />
-        <ExpertDetails icon="mdi:language-python" name="Python" />
-        <ExpertDetails icon="mdi:aws" name="Server" />
-        <ExpertDetails icon="mdi:wordpress" name="WordPress" />
-        <ExpertDetails icon="basil:adobe-photoshop-solid" name="Photoshop" />
+        <ExpertDetails icon="mdi:language-html5" name="HTML" />
+        <ExpertDetails icon="mdi:language-css3" name="CSS" />
+        <ExpertDetails icon="mdi:language-javascript" name="JavaScript" />
+        <ExpertDetails icon="mdi:language-typescript" name="TypeScript" />
+        <ExpertDetails icon="simple-icons:tailwindcss" name="Tailwind CSS" />
+        <ExpertDetails icon="mdi:git" name="Git" />
+        <ExpertDetails icon="mdi:github" name="GitHub" />
+
       </div>
     </div>
   );
