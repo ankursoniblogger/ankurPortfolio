@@ -1,6 +1,6 @@
 # Ankur Soni Portfolio
 
-✅ [https://ankitsoni.in/](https://ankursoniblogger.netlify.app/)
+✅ [https://ankursoni.in/](https://ankursoniblogger.netlify.app/)
 
 ## This is my Portfolio Created with React & Tailwind CSS from Scratch
 
