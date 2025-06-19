@@ -2,7 +2,7 @@
 
 This is my **personal developer portfolio** built using **React** and **Tailwind CSS**. It showcases my skills, projects, resume, and ways to connect with me.
 
-🌐 **Live Site:** [Visit Portfolio](https://ankur-portfolio-web.netlify.app/)  
+🌐 **Live Site:** [Visit Portfolio](https://ankursoniblogger.netlify.app/)  
 📁 **GitHub Repo:** [ankursoniblogger/ankurPortfolio](https://github.com/ankursoniblogger/ankurPortfolio)
 
 ---
@@ -26,17 +26,6 @@ This is my **personal developer portfolio** built using **React** and **Tailwind
 - **Hosting:** Netlify
 
 ---
-
-## 📸 Screenshots
-
-| Home Page  | Projects Section |
-|------------|------------------|
-| ![Home](./screenshots/home.png) | ![Projects](./screenshots/projects.png) |
-
-> _📷 You can add your actual screenshots in a `screenshots/` folder_
-
----
-
 ## 🧠 What I Learned
 
 - Building responsive UIs with React and Tailwind
