@@ -19,50 +19,31 @@
                 "id": 1,
                 "img": "/spotify.png",
                 "text": "Spotify-web-player-clone",
+                "desc": "A responsive clone of Spotify's web player using React and Tailwind.",
                 "url": "https://spotify-web-player-clonee.netlify.app/"
             },
             {
                 "id": 2,
                 "img": "/fannan2.png",
                 "text": "Fannan personal portfolio",
+                "desc": "Personal portfolio website built with Html,Css and JS showcasing creative UI/UX design.",
                 "url": "https://fannan-portfolio.netlify.app/"
             },
             {
                 "id": 3,
                 "img": "/Finedoctor.png",
                 "text": "Findoctor",
+                    "desc": "Find and book doctors online. Designed a user-friendly interface with advanced search.",
                 "url": "https://findoctorr.netlify.app/"
             },
             {
                 "id": 4,
                 "img": "/Messho.png",
                 "text": "Meesho Clone",
+                "desc": "E-commerce clone of Meesho built using HTML, CSS, and JS.",
                 "url": "https://meesho-clone098.netlify.app/"
-            },
-            {
-                "id": 5,
-                "img": "https://ankitsoni.in/project/Almahira.jpg",
-                "text": "ALMAHIRA PROJECT MANAGEMENT SERVICES CO.",
-                "url": "https://almahira.me"
-            },
-            {
-                "id": 6,
-                "img": "https://ankitsoni.in/project/Aspire%20%26%20Glee.jpg",
-                "text": "Aspire and Glee - Let's Intend To Spread Smiles",
-                "url": "https://aspireandglee.com"
-            },
-            {
-                "id": 7,
-                "img": "https://ankitsoni.in/project/casa.jpg",
-                "text": "CASA Interior - Bringing Your Visions to Life with Casa Interior",
-                "url": "https://casainterior.casa"
-            },
-            {
-                "id": 8,
-                "img": "https://ankitsoni.in/project/Round%20Point%20Tech.jpg",
-                "text": "Round Point Tech",
-                "url": "https://roundpointtech.com/"
             }
+            
         ]
     }
 }

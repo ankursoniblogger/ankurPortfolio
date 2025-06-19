@@ -6,7 +6,9 @@ import { Icon } from "@iconify/react";
 
 const Header = () => {
   return (
-    <div className="text-lightGreen flex justify-between  md:w-9/12  mx-auto font-jack font-medium">
+    // <div className="text-lightGreen flex justify-between  md:w-9/12  mx-auto font-jack font-medium">
+    <div className="sticky top-0 z-50 bg-darkGreen text-lightGreen flex justify-between md:w-9/12 mx-auto font-jack font-medium px-4 py-2">
+
  
  <h1 className="text-2xl tracking-wide text-center cursor-pointer flex gap-0.5 ">
   {data.intro.logo.split("").map((char, index) => (
@@ -26,7 +28,7 @@ const Header = () => {
       <button
         onClick={() =>
          ( window.open(
-      "https://drive.google.com/file/d/1llwX36kTCEzm45y0FUafljPWguHPbdIF/view?usp=sharing",
+      "https://drive.google.com/file/d/1H4_zKATi5DsUh7ZLnp07_hqlThyP5EX1/view?usp=sharing",
       "_blank"
     ))
         }
