@@ -1,26 +1,53 @@
-
 import React from "react";
 
-const PortfolioDetails = ({ img, title, desc, url }) => {
+const PortfolioDetails = ({ img, title, desc, url, github, stack }) => {
   return (
-    <div className="bg-[#1a1a1a] rounded-md shadow-md overflow-hidden text-left">
-      <a href={url} rel="noopener noreferrer" target="_blank">
+    <div className="bg-[#1a1a1a] rounded-md shadow-md overflow-hidden text-left p-4">
+      <a href={url} target="_blank" rel="noopener noreferrer">
         <img
           src={img}
           alt={title}
-          className="w-full h-[180px] object-cover transition duration-300 hover:opacity-90"
+          className="w-full h-[180px] object-cover rounded hover:opacity-90 transition"
         />
       </a>
-      <div className="p-3">
-        <h3 className="text-white font-semibold text-base">{title}</h3>
-        <p className="text-gray-300 text-sm mt-2">{desc}</p>
+      <h3 className="text-white font-semibold text-lg mt-4">{title}</h3>
+
+      <div className="mt-2">
+        {/* <p className="text-sm text-gray-400 mb-1">Tech Stack:</p> */}
+        <ul className="flex flex-wrap gap-2 mb-2">
+          {stack.map((tech, index) => (
+            <li
+              key={index}
+              className="text-xs bg-gray-700 text-white px-2 py-1 rounded"
+            >
+              {tech}
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <ul className="text-sm text-gray-300 list-disc list-inside space-y-1">
+        {desc.map((point, i) => (
+          <li key={i}>{point}</li>
+        ))}
+      </ul>
+
+      <div className="flex gap-4 mt-4">
+        <a
+          href={github}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="text-blue-400 text-sm hover:underline"
+        >
+          GitHub
+        </a>
         <a
           href={url}
           target="_blank"
           rel="noopener noreferrer"
-          className="text-blue-400 text-sm  inline-block mt-2 "
+          className="text-green-400 text-sm hover:underline"
         >
-          Visit Project
+          Live Demo
         </a>
       </div>
     </div>

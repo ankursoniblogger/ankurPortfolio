@@ -21,10 +21,12 @@ const Portfolio = () => {
           return (
             <PortfolioDetails
               key={e.id}
-              img={e.img}
-              title={e.text}
-               desc={e.desc}
-              url={e.url}
+             img={e.img}
+             title={e.text}
+              desc={e.desc}
+             url={e.url}
+                github={e.github}
+            stack={e.stack}
             />
           );
         })}
