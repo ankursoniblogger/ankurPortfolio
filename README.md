@@ -41,11 +41,11 @@ This is my **personal developer portfolio** built using **React** and **Tailwind
 
 ✅ [https://ankursoni.in/](https://ankursoniblogger.netlify.app/)
 
-## This is my Portfolio Created with React & Tailwind CSS from Scratch
+<!-- ## This is my Portfolio Created with React & Tailwind CSS from Scratch -->
 
-## ```Desktop Version ``` 
+<!-- ## ```Desktop Version ```  -->
 
-![image](https://github.com/ankitsoniblogger/ankitPortfolio/assets/38998710/5ee3b8ae-ace5-4403-a319-deef535830d0)
+<!-- ![image](https://github.com/ankitsoniblogger/ankitPortfolio/assets/38998710/5ee3b8ae-ace5-4403-a319-deef535830d0) -->
 
 ## ```Mobile Version ``` 
 
