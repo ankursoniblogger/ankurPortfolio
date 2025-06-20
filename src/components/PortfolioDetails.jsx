@@ -37,7 +37,7 @@ const PortfolioDetails = ({ img, title, desc, url, github, stack }) => {
           href={github}
           target="_blank"
           rel="noopener noreferrer"
-          className="text-blue-400 text-sm hover:underline"
+          className="text-blue-400 text-sm hover:underline text-lightGreen"
         >
           GitHub
         </a>
@@ -45,7 +45,7 @@ const PortfolioDetails = ({ img, title, desc, url, github, stack }) => {
           href={url}
           target="_blank"
           rel="noopener noreferrer"
-          className="text-green-400 text-sm hover:underline"
+          className="text-green-400 text-sm hover:underline text-lightGreen"
         >
           Live Demo
         </a>
