@@ -16,3 +16,7 @@
 ::-webkit-scrollbar-thumb {
     background-color: #BFF101;
 }
+
+html {
+  scroll-behavior: smooth;
+}

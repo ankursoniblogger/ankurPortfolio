@@ -3,7 +3,7 @@ import ExpertDetails from "./ExpertDetails";
 
 const Experties = () => {
   return (
-    <div className="mt-20 md:w-9/12 mx-auto">
+    <div  id="expert" className="mt-20 md:w-9/12 mx-auto">
       <h1 className="font-jack font-bold text-3xl tracking-wide  text-white text-center">
         I'm expert in!
       </h1>
