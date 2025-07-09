@@ -76,18 +76,15 @@ const Header = () => {
         </div>
 
         {/* Resume Button (unchanged) */}
-        <button
-          onClick={() =>
-            window.open(
-              "https://drive.google.com/file/d/1H4_zKATi5DsUh7ZLnp07_hqlThyP5EX1/view?usp=sharing",
-              "_blank"
-            )
-          }
-          className="flex items-center gap-1 justify-center text-xs bg-black px-4 py-2.5 rounded-full cursor-pointer"
-        >
-          <Icon icon="material-symbols:download" />
-          Resume
-        </button>
+<button
+  onClick={() => window.open("/resume.html", "_blank")}
+  className="flex items-center gap-1 justify-center text-xs bg-black px-4 py-2.5 rounded-full cursor-pointer"
+>
+  <Icon icon="material-symbols:download" />
+  Resume
+</button>
+
+
       </div>
     </div>
   );
