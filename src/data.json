@@ -12,60 +12,65 @@
     },
     "work": {
         "heading": "Projects",
-        "description": "Crafted with expertise and passion, my portfolio showcases a diverse range of creative projects.",
+        "description": "A collection of my full-stack and AI-powered projects showcasing modern web development and real-world problem solving.",
      "portfolio": [
+
   {
-    "id": 1,
-    "img": "/spotify.png",
-    "text": "Spotify Web Player Clone",
-    "stack": ["HTML", "CSS"],
-    "desc": [
-      "Built a responsive clone of Spotify's music player homepage.",
-      "Focused on layout, clean UI, and mobile responsiveness.",
-      "Ensured semantic structure and accessible design using only HTML and CSS."
-    ],
-    "github": "https://github.com/ankursoniblogger/Full-stack-web-Developer-Delta-batck/tree/master/Spotify_Clone",
-    "url": "https://spotify-web-player-clonee.netlify.app/"
-  },
+      "id": 1,
+      "img": "/ram-enter.png",
+      "text": "Ram Enterprises Website",
+      "stack": ["React", "JavaScript", "Tailwind CSS", "Vite"],
+      "desc": [
+        "Developed a responsive business website  using React and Tailwind CSS.",
+        "Designed modern UI components optimized for mobile, tablet, and desktop devices.",
+        "Implemented reusable components and deployed the application on Netlify.",
+        "Enhanced user experience by optimizing layout, improving loading performance, and ensuring smooth navigation across all devices."
+      ],
+      "github": "https://github.com/ankursoniblogger/Ram-Enterprises",
+      "url": "https://ram-enterprises.netlify.app/"
+    }
+  ,
+
   {
-    "id": 2,
-    "img": "/fannan2.png",
-    "text": "Fannan Portfolio Website",
-    "stack": ["HTML", "CSS", "JavaScript"],
-    "desc": [
-      "Designed a personal portfolio with smooth UI interactions and animations.",
-      "Implemented clean navigation and scroll-triggered transitions.",
-      "Focused on responsiveness and modern layout using vanilla technologies."
-    ],
-    "github": "https://github.com/ankursoniblogger/Projuct_portfolio?tab=readme-ov-file",
-    "url": "https://fannan-portfolio.netlify.app/"
-  },
+      "id": 2,
+      "img": "/tasktraker.png",
+      "text": "TaskTracker Productivity",
+      "stack": ["Node.js", "Express.js", "MongoDB", "JWT", "Mongoose"],
+      "desc": [
+        "Developed backend APIs for user authentication including login and registration using JWT.",
+        "Implemented task management features such as task creation, assignment, and status tracking.",
+        "Added collaboration features like comments, tagging, and due date notifications for productivity."
+      ],
+      "github": "https://github.com/ankursoniblogger/tasktracker-productivity",
+      "url": "https://tasktracker-productivity.vercel.app/"
+    },
   {
     "id": 3,
-    "img": "/Finedoctor.png",
-    "text": "Findoctor",
-    "stack": ["HTML", "CSS", "JavaScript"],
-    "desc": [
-      "Developed a responsive doctor-finding website with a clean and simple interface.",
-      "Users can search and filter doctors based on specialization.",
-      "Designed to deliver a seamless mobile and desktop experience."
-    ],
-    "github": "https://github.com/ankursoniblogger/Projuct",
-    "url": "https://findoctorr.netlify.app/"
+    "img": "/Discurvai.png",
+    "text": "DiscvrAI — AI Product Discovery",
+      "stack": ["React", "Node.js", "Express.js", "OpenAI API", "JavaScript"],
+      "desc": [
+        "Built a full-stack AI-powered product discovery platform with natural language search functionality.",
+        "Integrated OpenAI API to analyze user queries and return relevant products with AI-generated summaries.",
+        "Developed RESTful APIs for product listing, filtering, and AI-based search using Node.js and Express."
+      ],
+      "github": "https://github.com/ankursoniblogger/discvr-ai-platform",
+      "url": "https://discvr-ai-platform.vercel.app/"
   },
-  {
-    "id": 4,
-    "img": "/Messho.png",
-    "text": "Meesho Clone",
-    "stack": ["HTML", "CSS", "JavaScript"],
-    "desc": [
-      "Created a homepage clone of Meesho’s e-commerce platform.",
-      "Focused on layout design, product grid, and responsiveness.",
-      "Demonstrated UI/UX attention with dynamic and scalable code."
-    ],
-    "github": "https://github.com/ankursoniblogger/Meesho_clone/tree/master",
-    "url": "https://meesho-clone098.netlify.app/"
-  }
+{
+  "id": 4,
+  "img": "/weather.png",
+  "text": "Weather 2.0 App",
+  "stack": ["React", "TypeScript", "Redux Toolkit", "Tailwind CSS"],
+  "desc": [
+    "Built a modern weather application with real-time data using React and TypeScript.",
+    "Implemented global state management using Redux Toolkit for efficient data handling.",
+    "Designed a clean and responsive UI with Tailwind CSS for all devices.",
+    "Integrated API to fetch live weather data and display dynamic results."
+  ],
+  "github": "https://github.com/ankursoniblogger/weather-2.0-",
+  "url": "https://weather-2-0-rose.vercel.app/"
+}
 ]
 
     }
