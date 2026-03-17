@@ -1,6 +1,6 @@
 import React from "react";
 import data from "../data.json";
-import aboutMe from "../assets/about.png";
+import aboutMe from "../assets/about5.png";
 
 const About = () => {
   const { heading, description, button } = data.about;
