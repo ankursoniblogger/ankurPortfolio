@@ -16,7 +16,7 @@ const About = () => {
         </p>
         <button
           onClick={() => (window.location.href = "https://wa.me/7318326631")}
-          className="bg-black text-lightGreen  px-5 py-3 rounded-full text-sm  font-jack font-extralight "
+          className="bg-black text-lightGreen ml-15  px-5 py-3 rounded-full text-sm  font-jack font-extralight "
         >
           {button}
         </button>
@@ -25,7 +25,7 @@ const About = () => {
 
       <div className="md:w-[400px]">
         <img
-          className="h-96.1 mx-auto object-cover w-96 rounded-md drop-shadow-2xl"
+          className="h-96.1 mx-auto mt-10 object-cover w-96 rounded-md drop-shadow-2xl"
           src={aboutMe}
           alt="ankur soni"
         />
